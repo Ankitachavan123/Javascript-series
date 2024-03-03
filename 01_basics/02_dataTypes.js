@@ -2,7 +2,7 @@
 // bigint
 // string => ""
 // boolean => true/false
-// null => standalone vale
+// null => standalone vale-
 // undefined => not yet defined
 //symbol => unique
 
